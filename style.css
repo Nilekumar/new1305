@@ -1,0 +1,13 @@
+body{
+    
+    background-color:ivory;
+
+}
+.profile_pic{
+    height: 250px;
+    border-radius: 400px;
+}
+hr{
+    color: white;
+    height: 2px;
+}
